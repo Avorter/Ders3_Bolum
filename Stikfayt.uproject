@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{00F2BCEE-4952-E104-4005-338A4264E9A9}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Stikfayt",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
